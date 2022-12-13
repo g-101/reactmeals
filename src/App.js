@@ -1,5 +1,12 @@
+import { Fragment } from 'react';
+import Header from './components/Layout/Header';
+
 function App() {
-  return <h1>hi</h1>;
+  return (
+    <Fragment>
+      <Header />
+    </Fragment>
+  );
 }
 
 export default App;
