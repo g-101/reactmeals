@@ -1,6 +1,8 @@
 # ReactMeals
 
-[Acesse o ReactMeals aqui!](https://)
+[Acesse o ReactMeals aqui!](https://g101-reactmeals.netlify.app/)
+
+- Em progresso
 
 ## Sobre o projeto
 
